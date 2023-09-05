@@ -2,5 +2,4 @@
 
 This is sample readme file
 
-Adding new line
-Commenting here
+Removed earlier comments, moved to updates branch
