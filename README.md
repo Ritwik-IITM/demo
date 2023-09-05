@@ -2,4 +2,6 @@
 
 This is sample readme file
 
-Editing to check stash working
+Updating the file for time travel
+
+More updates in the working directory
