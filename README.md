@@ -2,4 +2,4 @@
 
 This is sample readme file
 
-Removed earlier comments, moved to conflict branch
+Editing to check stash working
